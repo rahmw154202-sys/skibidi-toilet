@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="n^]-e^hwTZ*qlDMRNxP~">myImage</variable><variable id="@tuOyZSgJGYU|)FkB76!">yoyyo</variable></variables><block type="device_button_event" id="Ao~csxSjTX|K6HEct.Bg" x="668" y="-96"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Uu*x*?i,[QUF$K-NO?-Q"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="80]6)1`s)hXD,S938uYg"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block><block type="pxt-on-start" id="Usbmt_`snWMd84kc5SQT" x="0" y="0"><statement name="HANDLER"><block type="music_playable_play" id="]HL6v?UeXza!S;M#Ls;{"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="music_string_playable" id="f*/Zk,25i[@Nto:Z{yKL"><value name="melody"><shadow type="melody_editor" id="s,Yz=n^%]nkDTocRH1nX"><field name="melody">"C5 B A G F E D C "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="s;;~OdZ:xKx-1}$]b3[4"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">500</field></shadow></value></shadow></value></block></statement></block><block type="device_button_event" id="}]9)_[-MRfp)Fkg-//A_" x="159" y="146"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="E-sNh}_Cjc1s@eKmx02H"><value name="text"><shadow type="text" id="S^)Psu^7y;n{IM87iL`Y"><field name="TEXT">wafi was here</field></shadow></value></block></statement></block></xml>
